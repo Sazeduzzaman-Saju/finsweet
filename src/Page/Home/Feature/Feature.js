@@ -6,9 +6,9 @@ const Feature = () => {
         <section className='container mb-5 mt-5'>
             <div
                 class="bg-image p-5 text-center shadow-1-strong rounded pdd-top padd-bottom "
-                style={{ backgroundImage: "url('https://i.ibb.co/44B1Kn9/BG.png')", backgroundRepeat: "no-repeat" }}
+                style={{ backgroundImage: "url('https://i.ibb.co/44B1Kn9/BG.png')", backgroundRepeat: "no-repeat" }} data-aos="fade-up-left" data-aos-duration="1500"
             >
-                <div className='pt-5'>
+                <div className='pt-5' data-aos="fade-up-left" data-aos-duration="1500">
                     <h1 class="mb-3 fw-bold text-white ">You can contribute to make
                         <br /> the environment greener!</h1>
                     <button className='btn-44 btn41-44'>Join as a volunteer</button>
